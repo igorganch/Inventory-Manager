@@ -1,0 +1,11 @@
+#-id-----Name-----Quantity-----Price
+56,Apple,10,1
+59,Pear,10,47
+123,23,3,15
+67,haha,2,3
+890,Papaya,2,89
+234,Strawberries,2,45
+456,Mango,3,49
+879,24324,243,234
+345,HelloWorld,2,45
+5768,Goodbye,1,23
