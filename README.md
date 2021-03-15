@@ -7,3 +7,5 @@ Download the git repository to your desktop
 ## Screenshots of the app running
 ### Checking sold history
 ![SCREENSHOT](https://github.com/igorganch/Inventory-Manager/blob/master/Mainmenu.PNG)
+### Checking Orders
+![SCREENSHOT](https://github.com/igorganch/Inventory-Manager/blob/master/Orders.PNG)
