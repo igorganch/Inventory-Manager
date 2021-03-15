@@ -5,3 +5,5 @@ This program demonstrates the use of Object Oriented programing with inheritance
 Download the git repository to your desktop
 # Functionality
 ## Screenshots of the app running
+### Checking sold history
+![SCREENSHOT](https://github.com/igorganch/Inventory-Manager/blob/master/Mainmenu.PNG)
