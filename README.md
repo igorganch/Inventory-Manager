@@ -1,2 +1,7 @@
 # Inventory-Manager
-This program demonstrates the use of inheritance using dynamic memory, File streams which save the data every time the program is exited.
+This app serves a purpose of keeping track of orders, inventory, and items sold. The app has many features incorporated in order to help a business to run fluently and organized.
+This program demonstrates the use of Object Oriented programing with inheritance using dynamic memory, File streams which saves the data every time the program is exited.
+# How to start
+Download the git repository to your desktop
+# Functionality
+## Screenshots of the app running
